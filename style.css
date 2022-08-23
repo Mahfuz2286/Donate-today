@@ -1,0 +1,198 @@
+body {
+    font-family: 'Arima', cursive;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+small {
+    padding-bottom: 25px;
+    color: rgba(243, 38, 38, 0.918);
+}
+
+form {
+    padding-top: 20px;
+}
+
+
+.first-section {
+    background-image: url(images/donation4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: auto;
+}
+
+.button {
+    background-color: crimson;
+    text-decoration: none;
+    color: rgb(1, 1, 13);
+    padding: 10px 40px;
+    font-weight: 400;
+    font-weight: bold;
+    border-radius: 6px;
+    size: 120px;
+    text-align: center;
+    color: aliceblue;
+}
+
+
+.flexible-container {
+    display: flex;
+    margin-bottom: 30px;
+    padding-top: 15px;
+
+}
+
+.box-shadow {
+    box-shadow: 5px 5px 5px gray;
+    width: 20%;
+    box-shadow: 5px;
+    border: 2px;
+    border-radius: 5px;
+    padding: 5px;
+    text-align: center;
+    margin: 10px;
+}
+
+.header-color {
+    color: rgba(243, 38, 38, 0.918);
+    font-size: large;
+}
+
+.header-size {
+    font-size: 70px;
+    color: rgb(253, 254, 254);
+}
+
+.img {
+    padding-right: 130px;
+    padding-top: 5px;
+}
+
+.padding-container {
+    padding-bottom: 60px;
+    margin-bottom: 70px;
+}
+
+.class-footer {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    background-color: rgb(12, 2, 2);
+    margin-left: 15px;
+    margin-right: 15px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    font-style: italic;
+}
+
+
+
+#first-div {
+    text-align: center;
+    padding: 130px;
+}
+
+
+#second-header {
+    font-size: 40px;
+}
+
+
+
+
+#second-section {
+    text-align: center;
+    padding-left: 250px;
+    padding-right: 250px;
+    padding-top: 80px;
+    padding-bottom: 50px;
+}
+
+#marking-amount {
+    background-color: coral;
+    border-color: brown;
+    width: 20%;
+    box-shadow: 5px 5px 5px gray;
+    border: 5px;
+    border-radius: 5px;
+    padding: 5px;
+    text-align: center;
+    margin: 10px;
+
+}
+
+
+#third-section {
+    text-align: center;
+    padding-left: 250px;
+    padding-right: 250px;
+    padding-top: 40px;
+    padding-bottom: 50px;
+}
+
+
+#second-box-shadow {
+    border: 5px;
+    border-radius: 5px;
+    background-color: bisque;
+    margin: 10px;
+}
+
+#third-box-shadow {
+    border: 5px;
+    border-radius: 5px;
+    background-color: aqua;
+    margin: 10px;
+}
+
+#fourth-box-shadow {
+    border: 5px;
+    border-radius: 5px;
+    background-color: aquamarine;
+    margin: 10px;
+}
+
+
+
+
+#optional-section-one {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+
+
+#suscribe {
+    background-color: rgb(254, 86, 86);
+    font-size: 15px;
+}
+
+#form-div {
+    background-color: antiquewhite;
+    padding: 30px;
+    margin-left: 350px;
+    margin-right: 350px;
+}
+
+
+#f-heading {
+    color: aliceblue;
+}
+
+#text-div {
+    text-align: center;
+    padding-top: 80px;
+    margin: 40px;
+}
+
+#img-tag {
+    height: 300px;
+    width: 600px;
+}
+
+#textarea {
+    text-align: center;
+    border: 0px;
+    border-bottom: 2px solid black;
+}
